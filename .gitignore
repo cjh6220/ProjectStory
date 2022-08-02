@@ -1,0 +1,21 @@
+ProjectStory/Assembly-CSharp.csproj
+ProjectStory/New Unity Project.sln
+ProjectStory/.vscode/settings.json
+ProjectStory/Library/
+ProjectStory/Logs/
+ProjectStory/Temp/
+ProjectStory/Client.sln
+ProjectStory/Assembly-CSharp-firstpass.csproj
+ProjectStory/Assembly-CSharp-Editor-firstpass.csproj
+ProjectStory/obj/
+ProjectStory/ACTk.Runtime.csproj
+ProjectStory/ACTk.Examples.Runtime.csproj
+ProjectStory/ACTk.Examples.Genuine.Runtime.csproj
+ProjectStory/ACTk.Examples.Genuine.Editor.csproj
+ProjectStory/ACTk.Editor.csproj
+ProjectStory/CodeStage.Maintainer.Editor.csproj
+ProjectStory/Sirenix.OdinInspector.CompatibilityLayer.Editor.csproj
+ProjectStory/Sirenix.OdinInspector.Modules.UnityMathematics.csproj
+ProjectStory/CodeStage.Maintainer.Editor.csproj
+ProjectStory/Sirenix.OdinInspector.CompatibilityLayer.Editor.csproj
+ProjectStory/Sirenix.OdinInspector.Modules.UnityMathematics.csproj
